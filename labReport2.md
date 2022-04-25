@@ -14,7 +14,7 @@ Since there was text after the closing parenthesis, and there was no conditon th
 
 2. Code Change 2
 
-![Change 2:](https://github.com/jemilparikh/Cse15L-LabReports/blob/4eaf6d524b294389951beeb8b6696babe49b5bf3/Screen%20Shot%202022-04-24%20at%2011.08.51%20PM.png)
+![Change 2:](https://github.com/jemilparikh/Cse15L-LabReports/blob/ae674e31eb28ceee9153a34e32d76886dfe5f357/Screen%20Shot%202022-04-25%20at%201.59.26%20AM.png)
 
 ![Failure-Inducing Input in Test File:](https://github.com/jemilparikh/Cse15L-LabReports/blob/3669717300f57892c1366de3b516ceda11f3c587/Screen%20Shot%202022-04-25%20at%201.56.43%20AM.png)
 
