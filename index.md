@@ -4,3 +4,4 @@
 
 1. [Lab Report 1]()
 2. [Lab Report 2](https://jemilparikh.github.io/Cse15L-LabReports/labReport2)
+3. [Lab Report 3](https://jemilparikh.github.io/Cse15L-LabReports/labReport3)
