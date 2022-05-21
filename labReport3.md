@@ -26,14 +26,15 @@ Step 4: Creating a test file and moving it to the server using the alias created
 
 Evidence 1: Public key on Github account and Public Key and Private key on user account.
 
-![Evidence 1:]()
+![Evidence 1:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%207.31.28%20PM.png)
+![Evidence 1:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%207.25.45%20PM.png)
 
 Evidence 2: Making a change to a file using vim, committing it and pushing it from ieng6.
 
-![Evidence 2:]()
+![Evidence 2:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%207.49.36%20PM.png)
 
 Evidence 3: Resulting commit on Github.
 
-![Evidence 3:]()
+![Evidence 3:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%207.50.00%20PM.png)
 
 
