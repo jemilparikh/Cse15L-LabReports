@@ -23,3 +23,17 @@ Step 4: Creating a test file and moving it to the server using the alias created
 ![Step 4:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-19%20at%209.07.42%20PM.png)
 
 2. Set up Github Access from ieng6
+
+Evidence 1: Public key on Github account and Public Key and Private key on user account.
+
+![Evidence 1:]()
+
+Evidence 2: Making a change to a file using vim, committing it and pushing it from ieng6.
+
+![Evidence 2:]()
+
+Evidence 3: Resulting commit on Github.
+
+![Evidence 3:]()
+
+
