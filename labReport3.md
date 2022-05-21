@@ -37,6 +37,23 @@ Evidence 3: Resulting commit on Github.
 
 ![Evidence 3:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%207.50.00%20PM.png)
 
+3. Copy whole directories with scp -r
+
+Step 1: Copying the whole markdown-parse directory to my ieng6 account.
+
+![Step 1:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%209.18.24%20PM.png)
+
+Step 2: Logging into my ieng6 account after doing this and compiling and running the tests for my repository.
+
+![Step 2:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%209.22.09%20PM.png)
+
+Step 3: Combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
+
+![Step 3:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-20%20at%209.50.31%20PM.png)
+
+
+
+
 
 
 
