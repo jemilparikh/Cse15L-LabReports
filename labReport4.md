@@ -7,7 +7,7 @@
 
 ## Snippet 1:
 
-* ![Expected Output:]()
+* ![Expected Output:](https://jemilparikh.github.io/Cse15L-LabReports/snippet1expectedOutput.png)
 
 * ![Turning it into a test:]()
 
@@ -17,7 +17,7 @@
 
 ## Snippet 2:
 
-* ![Expected Output:]()
+* ![Expected Output:](https://jemilparikh.github.io/Cse15L-LabReports/snippet2expectedOutput.png)
 
 * ![Turning it into a test:]()
 
@@ -27,7 +27,7 @@
 
 ## Snippet 3:
 
-* ![Expected Output:]()
+* ![Expected Output:](https://jemilparikh.github.io/Cse15L-LabReports/snippet3expectedOutput.png)
 
 * ![Turning it into a test:]()
 
