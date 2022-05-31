@@ -7,33 +7,33 @@
 
 ## Snippet 1:
 
-![* Expected Output:]()
+* ![Expected Output:]()
 
-![* Turning it into a test:]()
+* ![Turning it into a test:]()
 
-![* Output after running test (failed) for my implementation:]()
+* ![Output after running test (failed) for my implementation:]()
 
-![* Output after running test (failed) for reviewed implementation:]()
+* ![Output after running test (failed) for reviewed implementation:]()
 
 ## Snippet 2:
 
-![* Expected Output:]()
+* ![Expected Output:]()
 
-![* Turning it into a test:]()
+* ![Turning it into a test:]()
 
-![* Output after running test (failed) for my implementation:]()
+* ![Output after running test (failed) for my implementation:]()
 
-![* Output after running test (failed) for reviewed implementation:]()
+* ![Output after running test (failed) for reviewed implementation:]()
 
 ## Snippet 3:
 
-![* Expected Output:]()
+* ![Expected Output:]()
 
-![* Turning it into a test:]()
+* ![Turning it into a test:]()
 
-![* Output after running test (failed) for my implementation:]()
+* ![Output after running test (failed) for my implementation:]()
 
-![* Output after running test (failed) for reviewed implementation:]()
+* ![Output after running test (failed) for reviewed implementation:]()
 
 
 ## Answers
