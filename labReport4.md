@@ -7,31 +7,55 @@
 
 ## Snippet 1:
 
+* Expected Output in CommonMark:
+
 ![Expected Output in CommonMark:](https://jemilparikh.github.io/Cse15L-LabReports/snippet1expectedOutput.png)
+
+* Turning it into a test:
 
 ![Turning it into a test:]()
 
+* Output after running test (failed) for my implementation:
+
 ![Output after running test (failed) for my implementation:]()
+
+* Output after running test (failed) for reviewed implementation:
 
 ![Output after running test (failed) for reviewed implementation:]()
 
 ## Snippet 2:
 
+* Expected Output in CommonMark:
+
 ![Expected Output in CommonMark:](https://jemilparikh.github.io/Cse15L-LabReports/snippet2expectedOutput.png)
+
+* Turning it into a test:
 
 ![Turning it into a test:]()
 
+* Output after running test (failed) for my implementation:
+
 ![Output after running test (failed) for my implementation:]()
+
+* Output after running test (failed) for reviewed implementation:
 
 ![Output after running test (failed) for reviewed implementation:]()
 
 ## Snippet 3:
 
+* Expected Output in CommonMark:
+
 ![Expected Output in CommonMark:](https://jemilparikh.github.io/Cse15L-LabReports/snippet3expectedOutput.png)
+
+* Turning it into a test:
 
 ![Turning it into a test:]()
 
+* Output after running test (failed) for my implementation:
+
 ![Output after running test (failed) for my implementation:]()
+
+* Output after running test (failed) for reviewed implementation:
 
 ![Output after running test (failed) for reviewed implementation:]()
 
