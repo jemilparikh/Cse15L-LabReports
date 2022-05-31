@@ -2,38 +2,39 @@
 
 ## Links
 
-[Link to my markdown-parse repository](https://github.com/Mashyuf/markdown-parser)
-[Link to the repostiory I reviewed in Week 7](https://github.com/cmy0357/markdown-parser)
+* [Link to my markdown-parse repository](https://github.com/Mashyuf/markdown-parser)
+* [Link to the repostiory I reviewed in Week 7](https://github.com/cmy0357/markdown-parser)
 
 ## Snippet 1:
 
-![*Expected Output:]()
+![* Expected Output:]()
 
-![*Turning it into a test:]()
+![* Turning it into a test:]()
 
-![*Output after running test (failed) for my implementation:]()
+![* Output after running test (failed) for my implementation:]()
 
-![*Output after running test (failed) for reviewed implementation:]()
+![* Output after running test (failed) for reviewed implementation:]()
 
 ## Snippet 2:
 
-![*Expected Output:]()
+![* Expected Output:]()
 
-![*Turning it into a test:]()
+![* Turning it into a test:]()
 
-![*Output after running test (failed) for my implementation:]()
+![* Output after running test (failed) for my implementation:]()
 
-![*Output after running test (failed) for reviewed implementation:]()
+![* Output after running test (failed) for reviewed implementation:]()
 
 ## Snippet 3:
 
-![*Expected Output:]()
+![* Expected Output:]()
 
-![*Turning it into a test:]()
+![* Turning it into a test:]()
 
-![*Output after running test (failed) for my implementation:]()
+![* Output after running test (failed) for my implementation:]()
 
-![*Output after running test (failed) for reviewed implementation:]()
+![* Output after running test (failed) for reviewed implementation:]()
+
 
 ## Answers
 
