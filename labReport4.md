@@ -17,11 +17,11 @@
 
 * Output after running test (failed) for my implementation:
 
-![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/7.png)
+![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-31%20at%202.43.26%20PM.png)
 
 * Output after running test (failed) for reviewed implementation:
 
-![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/4.png)
+![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-31%20at%202.42.56%20PM.png)
 
 ## Snippet 2:
 
