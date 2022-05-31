@@ -37,6 +37,8 @@
 
 ![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/8.png)
 
+* Output after running test (failed) for reviewed implementation:
+
 ![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/5.png)
 
 ## Snippet 3:
