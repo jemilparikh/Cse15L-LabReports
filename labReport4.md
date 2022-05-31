@@ -7,8 +7,7 @@
 
 ## Snippet 1:
 
-* ![Expected Output in CommonMark:]
-(https://jemilparikh.github.io/Cse15L-LabReports/snippet1expectedOutput.png)
+* ![Expected Output in CommonMark:](https://jemilparikh.github.io/Cse15L-LabReports/snippet1expectedOutput.png)
 
 * ![Turning it into a test:]()
 
@@ -18,8 +17,7 @@
 
 ## Snippet 2:
 
-* ![Expected Output in CommonMark:]
-(https://jemilparikh.github.io/Cse15L-LabReports/snippet2expectedOutput.png)
+* ![Expected Output in CommonMark:](https://jemilparikh.github.io/Cse15L-LabReports/snippet2expectedOutput.png)
 
 * ![Turning it into a test:]()
 
@@ -29,8 +27,7 @@
 
 ## Snippet 3:
 
-* ![Expected Output in CommonMark:]
-(https://jemilparikh.github.io/Cse15L-LabReports/snippet3expectedOutput.png)
+* ![Expected Output in CommonMark:](https://jemilparikh.github.io/Cse15L-LabReports/snippet3expectedOutput.png)
 
 * ![Turning it into a test:]()
 
