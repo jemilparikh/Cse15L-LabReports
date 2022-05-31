@@ -60,10 +60,14 @@
 
 ## Answers
 
-1. Answer 1:
+1. Answer 1: It is indeed possible to allow for backticks with inline code in my program with a minor change. In the if condition that searches for the openBracket, openParen, closeParen and closeBracket, one can search for any backtick if it exists within that entire text (from openBracket to closeBracket, or before openBracket). If it does, the entire text shouldn't be considered as a link and can be skipped (currentIndex would be closeBracket + 1). If not, go ahead as usual by returning the link between openParen and closeParen.
 
-2. Answer 2:
+2. Answer 2: While it is possible to account for the nested parentheses, brackets and escaped brackets, it is a tedious task as one would have to go through the entire string through a long loop to know if the link is in the proper format alongwith the accurately nested brackets and parenthesis. Hence, it is not a small change.
 
-3. Answer 3:
+3. Answer 3: Yes, it is relatively easy to implement the code to account for spaces in brackets and parentheses. Again there can be a condition which checks for any " " (empty space) or "\n" (new lines) in between openParen and closeParen. If there, change currentIndex to closeBracket + 1. If not, go ahead with returning the link between openParen and closeParen.
+
+## Tests that passed
+
+In the reviewed repository, the test for snippet 2 passed. This is because the expected condition in the test was similar to the outcome because the MarkdownParse code in this reviewed repository doesn't account for nested parenthesis and excludes any text after the first closeParen (as with '(a.com(()))'). This was specifically assumed in the test as the expected outcome and hence it passed. However the code in markdownParse is still not correct for all cases that nest brackets, parentheses or escaped brackets.
 
 
