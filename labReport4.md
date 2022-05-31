@@ -13,15 +13,15 @@
 
 * Turning it into a test:
 
-![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%201%20Test.png)
+![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/1.png)
 
 * Output after running test (failed) for my implementation:
 
-![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Failure%20Snippet1%20Test.png)
+![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/7.png)
 
 * Output after running test (failed) for reviewed implementation:
 
-![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%201%20Test%20Failed%20Reviewed.png)
+![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/4.png)
 
 ## Snippet 2:
 
@@ -31,13 +31,13 @@
 
 * Turning it into a test:
 
-![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%202%20Test.png)
+![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/2.png)
 
 * Output after running test (failed) for my implementation:
 
-![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Failure%20Snippet2%20Test.png)
+![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/8.png)
 
-* Output after running test passed for reviewed implementation.
+![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/5.png)
 
 ## Snippet 3:
 
@@ -47,15 +47,15 @@
 
 * Turning it into a test:
 
-![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%203%20Test.png)
+![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/3.png)
 
 * Output after running test (failed) for my implementation:
 
-![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Failure%20Snippet3%20Test.png)
+![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/9.png)
 
 * Output after running test (failed) for reviewed implementation:
 
-![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%203%20Test%20Failed%20Reviewed.png)
+![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/6.png)
 
 
 ## Answers
@@ -66,8 +66,5 @@
 
 3. Answer 3: Yes, it is relatively easy to implement the code to account for spaces in brackets and parentheses. Again there can be a condition which checks for any " " (empty space) or "\n" (new lines) in between openParen and closeParen. If there, change currentIndex to closeBracket + 1. If not, go ahead with returning the link between openParen and closeParen.
 
-## Tests that passed
-
-In the reviewed repository, the test for snippet 2 passed. This is because the expected condition in the test was similar to the outcome because the MarkdownParse code in this reviewed repository doesn't account for nested parenthesis and excludes any text after the first closeParen (as with '(a.com(()))'). This was specifically assumed in the test as the expected outcome and hence it passed. However the code in markdownParse is still not correct for all cases that nest brackets, parentheses or escaped brackets.
 
 
