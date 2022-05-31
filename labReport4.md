@@ -13,11 +13,11 @@
 
 * Turning it into a test:
 
-![Turning it into a test:]()
+![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%201%20Test.png)
 
 * Output after running test (failed) for my implementation:
 
-![Output after running test (failed) for my implementation:]()
+![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Failure%20Snippet1%20Test.png)
 
 * Output after running test (failed) for reviewed implementation:
 
@@ -31,11 +31,11 @@
 
 * Turning it into a test:
 
-![Turning it into a test:]()
+![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%202%20Test.png)
 
 * Output after running test (failed) for my implementation:
 
-![Output after running test (failed) for my implementation:]()
+![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Failure%20Snippet2%20Test.png)
 
 * Output after running test (failed) for reviewed implementation:
 
@@ -49,11 +49,11 @@
 
 * Turning it into a test:
 
-![Turning it into a test:]()
+![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%203%20Test.png)
 
 * Output after running test (failed) for my implementation:
 
-![Output after running test (failed) for my implementation:]()
+![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Failure%20Snippet3%20Test.png)
 
 * Output after running test (failed) for reviewed implementation:
 
