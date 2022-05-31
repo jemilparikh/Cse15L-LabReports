@@ -13,7 +13,7 @@
 
 * Turning it into a test:
 
-![Turning it into a test:]([https://jemilparikh.github.io/Cse15L-LabReports/1.png](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-31%20at%202.47.56%20PM.png))
+![Turning it into a test:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-05-31%20at%202.47.56%20PM.png)
 
 * Output after running test (failed) for my implementation:
 
