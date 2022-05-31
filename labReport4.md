@@ -21,7 +21,7 @@
 
 * Output after running test (failed) for reviewed implementation:
 
-![Output after running test (failed) for reviewed implementation:]()
+![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%201%20Test%20Failed%20Reviewed.png)
 
 ## Snippet 2:
 
@@ -37,9 +37,7 @@
 
 ![Output after running test (failed) for my implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Failure%20Snippet2%20Test.png)
 
-* Output after running test (failed) for reviewed implementation:
-
-![Output after running test (failed) for reviewed implementation:]()
+* Output after running test passed for reviewed implementation.
 
 ## Snippet 3:
 
@@ -57,7 +55,7 @@
 
 * Output after running test (failed) for reviewed implementation:
 
-![Output after running test (failed) for reviewed implementation:]()
+![Output after running test (failed) for reviewed implementation:](https://jemilparikh.github.io/Cse15L-LabReports/Snippet%203%20Test%20Failed%20Reviewed.png)
 
 
 ## Answers
