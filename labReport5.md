@@ -47,11 +47,11 @@ Note: Left side of this picture shows the outputs for results.txt of my markdown
 My implementation of markdown-parser is incorrect for this test-file as it does not match the correct output of a simply returning no link and basic '[]'.
 This is because it doesn't recognize that the text between the two parentheses has been broken over two lines and therefore cannot be categorized as a link anynmore. In order to fix this one can change the code in the while loop below by adding a condition that breaks from the loop if there is a new line character between the opening paranthesis and closing parenthesis:
 
-[Code:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-06%20at%2012.18.03%20AM.png)
+![Code:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-06%20at%2012.18.03%20AM.png)
 
 The code that can be added under the for loop in the while loop that checks for empty spaces could be:
 
-[Code:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-06%20at%2012.25.29%20AM.png)
+![Code:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-06%20at%2012.25.29%20AM.png)
 
 * Test-File 491:
 
