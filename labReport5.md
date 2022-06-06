@@ -52,8 +52,8 @@ This is because it doesn't recognize that the text between the two parentheses h
 The code that can be added under the for loop in the while loop that checks for empty spaces could be:
 
 $ else if (markdown.substring(i, i + 1).equals("\n")) {
-        $ hasSpace = 1;
-$ }
+        hasSpace = 1;
+  }
 
  
  
