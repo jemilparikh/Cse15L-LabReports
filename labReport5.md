@@ -55,6 +55,10 @@ The code that can be added under the for loop in the while loop that checks for 
 
 * Test-File 491:
 
+For this test-file, both implementations are incorrect. Talking about my implementation, a whole extra loop is required to account for nested parenthesis inside as part of the link, which is basically the issue here and that since the markdown-parser code does not account for the ')' in the link, it excludes the part after the first closing parenthesis. The loop that checks for all nested parenthesis must make use of .indexOf method and .equals method to check for all parenthesis between the first opening parenthesis and the last closing parenthesis. To find the indexes of these, it must compare the indexes of all other parenthesis in the ArrayList. This loop can be added after the recognition of the opening and closing brackets, by replacing the two lines that assign the values of variables 'openParen' and 'closeParen'.
+
+![Code:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-06%20at%2012.37.16%20AM.png)
+
 
  
  
