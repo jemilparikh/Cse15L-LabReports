@@ -21,20 +21,24 @@ This results in a line by line comparison of the two results.txt files from two 
 
 ## Actual Output VS Expected Output
 
-* ![Actual Output:](https://jemilparikh.github.io/Cse15L-LabReports/testFilesActualOutput.png)
+* Actual Output:
+
+![Actual Output:](https://jemilparikh.github.io/Cse15L-LabReports/testFilesActualOutput.png)
 Note: Left side of this picture shows the outputs for results.txt of my markdown-parser repository. Right side shows the outputs for results.txt of the provided markdown-parser. Both test-files 490 and 491's outputs shown consecutively in the same picture.
 
 * Expected Output using CommonMark: 
 
-  ![Test-File 490:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-05%20at%2011.32.47%20PM.png)
+  Test-File 490:
+  
+![Test-File 490:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-05%20at%2011.32.47%20PM.png)
 
   Note: Leads to no link in CommonMark.
 
   Test-File 491:
 
-  ![Test-File 491:](https://jemilparikh.github.io/Cse15L-LabReports/https://github.com/jemilparikh/Cse15L-LabReports/blob/main/Screen%20Shot%202022-06-      05%20at%2011.33.32%20PM.png)
+![Test-File 491:](https://jemilparikh.github.io/Cse15L-LabReports/https://github.com/jemilparikh/Cse15L-LabReports/blob/main/Screen%20Shot%202022-06-05%20at%2011.33.32%20PM.png)
 
-Note: Leads to the following [link](https://spec.commonmark.org/dingus/b)c).
+  Note: Leads to the following [link](https://spec.commonmark.org/dingus/b)c).
 
 ## Fix
 
