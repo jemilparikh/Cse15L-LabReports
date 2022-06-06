@@ -28,17 +28,17 @@ Note: Left side of this picture shows the outputs for results.txt of my markdown
 
 * Expected Output using CommonMark: 
 
-  Test-File 490:
+Test-File 490:
   
 ![Test-File 490:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-05%20at%2011.32.47%20PM.png)
 
-  Note: Leads to no link in CommonMark.
+Note: Leads to no link in CommonMark.
 
-  Test-File 491:
+Test-File 491:
 
 ![Test-File 491:](https://jemilparikh.github.io/Cse15L-LabReports/Screen%20Shot%202022-06-05%20at%2011.33.32%20PM.png)
 
-  Note: Leads to the following link: 'https://spec.commonmark.org/dingus/b)c'.
+Note: Leads to the following link: 'https://spec.commonmark.org/dingus/b)c'.
 
 ## Fix
 
